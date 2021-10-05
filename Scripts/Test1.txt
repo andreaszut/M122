@@ -1,0 +1,5 @@
+rot
+blau
+pink
+grün
+schwarz
